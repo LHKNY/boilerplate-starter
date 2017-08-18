@@ -47,7 +47,7 @@ a {
 	float: none;
 }
 #box {
-	color: white;
+	color: grey;
 	float: right;
 	width: 375px;
 	height: 230px; 
@@ -65,10 +65,10 @@ a {
 /* Some classes */
 
 .black {
-	background-color: black;
+	background-color: green;
 }
 .verdana {
-	font-family: verdana;
+	font-family: uncey;
 }
 .move_down {
 	margin-top: 200px;
